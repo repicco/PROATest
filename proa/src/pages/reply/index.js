@@ -49,7 +49,7 @@ class Reply extends Component {
                         </div>
                         <div className='reply'>
                             <p><span className='azul'>let</span> <span className='verm'>empresa</span> = &#123; 'proafuncionarios' :
-                                [&#123;'João'&#125;, &#123;'Maria'&#125;, &#123;'José'&#125;] &#125; </p>
+                                ['João', 'Maria', 'José'] &#125; </p>
                         </div>
                     </div>
                     <div className='card col s12 m5 offset-m2'>
