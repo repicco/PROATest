@@ -1,0 +1,29 @@
+.card {
+    border-radius: 10px;
+}
+
+.btn {
+    text-transform: lowercase;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.reply {
+    background-color: #ccc;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.reply p {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.azul {
+    color: blue;
+}
+
+.verm {
+    color: red;
+}
