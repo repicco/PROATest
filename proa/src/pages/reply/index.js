@@ -25,7 +25,7 @@ class Reply extends Component {
 
 
     apiFipe() {
-        let url = 'http://fipeapi.appspot.com/api/1/carros/veiculo/31/4142/2013-1.json'
+        let url = 'https://fipeapi.appspot.com/api/1/carros/veiculo/31/4142/2013-1.json'
         fetch(url)
         .then((response) => response.json())
         .then((result) => {
@@ -35,8 +35,6 @@ class Reply extends Component {
 
 
     render() {
-        console.log(this.state.fipe)
-
         return(
             <div className='container'>
                 <div className='row center-align'>
