@@ -128,7 +128,7 @@ class Reply extends Component {
                         </div>
                         <div className='reply'>
                                 <p>
-                                <span className='azul'>let</span> <span className='verm'>Teste</span> = ‘Hello World’
+                                <span className='azul'>var</span> <span className='verm'>Teste</span> = ‘Hello World’
                                 </p>
                         </div>
                     </div>
